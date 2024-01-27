@@ -2,7 +2,7 @@
 
 <h3>Objetivo do Repositório:</h3>
 
-<p>Este repositório tem como finalidade reunir as ementas das disciplinas de Sistemas Operacionais presentes nos cursos de Ciência da Computação (Bacharelado Presencial) de diversas Universidades Federais do Brasil. Essas informações serão utilizadas como base para uma pesquisa de final de curso (TCC) que visa elucidar as metodologias, ferramentas e abordagens mais frequentemente adotadas no ensino dessa disciplina.</p>
+<p>Este repositório tem como finalidade reunir as ementas das disciplinas de Sistemas Operacionais presentes nos cursos de Ciência da Computação (Bacharelado Presencial) de diversas Universidades Federais do Brasil. Essas informações serão utilizadas como base para uma pesquisa de final de curso (TCC) que visa elucidar as metodologias, ferramentas e abordagens mais frequentemente adotadas no ensino dessa disciplina. Todos os dados computados estão disponíveis em: https://1drv.ms/x/s!AuTcIGbbrZjhlkDcysdH9248jHbN?e=Vqnmj7</p>
 
 <h3>Pastas por Universidade:</h3>
 
